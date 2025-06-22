@@ -13,7 +13,6 @@ class Calculator:
     def divide(self, a, b):
         return a / b
 
-    # Square root implementation
     def square_root(self, x):
         return math.sqrt(x)
 
